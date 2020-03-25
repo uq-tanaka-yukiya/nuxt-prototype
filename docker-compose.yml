@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nuxt:
+    container_name: nuxt-prototype
+    build: ./infra/docker/nodejs
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/var/www/nuxt
+    tty: true

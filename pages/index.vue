@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <nuxt-link to="/area/hokkaido">一覧</nuxt-link>
     <MainVisualCarousel />
     <PlanCardList />
   </div>

@@ -28,3 +28,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
   - https://logmi.jp/tech/articles/312582
   - https://github.com/Yama-Tomo/nuxt-with-atomic-design-sample
   - https://www.atmarkit.co.jp/ait/articles/1702/28/news017_2.html
+  - https://ygoto3.com/posts/atomic-design-on-actual-project/
